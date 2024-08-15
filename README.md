@@ -8,4 +8,7 @@ The web application helps users in their laptop purchase process in a number of 
 
 [![Watch the video](https://img.youtube.com/vi/NxbRwnoFk_A/0.jpg)](https://www.youtube.com/watch?v=NxbRwnoFk_A)
 
+## Dataset
+
+For this project, we used the [Brand Laptops Dataset](https://www.kaggle.com/datasets/bhavikjikadara/brand-laptops-dataset) provided by Bhavik Jikadara on Kaggle. The dataset contains detailed information about various laptop brands and their specifications.
 
