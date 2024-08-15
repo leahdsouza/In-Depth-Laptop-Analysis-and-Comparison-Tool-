@@ -1,4 +1,4 @@
-#Laptop Analysis and Comparison
+# Laptop Analysis and Comparison
 
 Using a Kaggle dataset, the platform offers comprehensive details on important features, costs, and user reviews, enabling users to make well-informed judgments about what to buy. 
 
