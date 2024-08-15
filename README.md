@@ -1,2 +1,3 @@
-# In-Depth-Laptop-Analysis-and-Comparison-Tool-
-G-16 ADT Project
+Using a Kaggle dataset, the platform offers comprehensive details on important features, costs, and user reviews, enabling users to make well-informed judgments about what to buy. 
+The database web application helps users in their laptop purchase process in a number of ways. Offering a single platform for thorough laptop analysis and comparison closes a gap in the market. Our platform offers a combination of features like a comparison cart, extensive database, and user-friendly interface in an effort to outperform these current alternatives. By utilizing these tools, consumers may make knowledgeable judgments about what to buy, save on time and effort spent researching, and get access to current data and professional insights in the rapidly evolving laptop market.
+
